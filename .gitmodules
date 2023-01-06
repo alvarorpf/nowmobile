@@ -1,0 +1,4 @@
+[submodule "nowmobilemxorg/odoo_nm"]
+	path = nowmobilemxorg/odoo_nm
+	url = git@github.com:nowmobilemxorg/odoo_nm.git
+	branch = dev
